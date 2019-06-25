@@ -1,0 +1,133 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+  }
+  header{
+    position: absolute;
+    top:0;
+    left: 0;
+    padding:0 100px;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,167,201,1) 100%, rgba(0,167,201,1) 100%, rgba(0,212,255,1) 100%);
+    width:100%;
+    box-sizing: border-box;
+    opacity: 0px;
+  }
+  header.logo{
+    color:ghostwhite;
+    height: 50px;
+    line-height: 50;
+    font-size: 24px;
+    float: left;
+    font-weight: bold;
+  }
+  header nav{
+    float:right;
+  }
+  header nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  header nav ul li{
+    list-style: none;
+  }
+  header nav ul li a{
+    height: 40px;
+    line-height: 40px;
+    padding:0 20px;
+    color:white;
+    text-decoration: none;
+    display:block;
+    border-radius:2px;
+  }
+  header nav ul li a:hover,
+  header nav ul li a.active
+  {
+    color:f0f0f0; 
+    background:#007e98;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    text-decoration: bold;
+  }
+  .menu-toggle{
+    color:#9fa9a3;
+    float: right;
+    line-height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+    display:none;
+  }
+  
+  @media (max-width:991px) 
+  {
+    header{
+            padding:0 20px;
+          }
+    .menu-toggle{
+            display: block;
+          }
+    header nav{
+            display: none;
+            position: absolute; 
+            width:100%;
+            height:calc(100vh - 50px); 
+            background:darkgray;
+            top:50px;
+            left:-100%;
+            transition: 0.5s;
+              
+          }
+    header nav.active{
+      left: 0;
+    }
+    header nav ul{
+      display: block;
+      text-align: center;
+          }
+    header nav ul a{
+      border-bottom: 1px solid rgba (0,0,0,.2);
+          }     
+        } 
+  
+  .nav-button{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+  }
+  .main{
+  width: 100%;
+  margin-top:125px;
+  height:100%;
+  
+  }
+  .input{
+    width:25%;
+    height: 25px;
+    border:none;
+    border-bottom:2px solid black;
+    margin-top:50px;
+    margin-left:75px;
+  }
+  .button{
+    background-color:white;
+    color:black;
+    border:2px solid #555555;
+    border-radius: 2px;
+    padding:12px 20px;
+    margin-left:20px;
+  }
+  .men-button{
+    color:transparent;
+   background-color:transparent;
+   background: #87bdd8;
+   border: none;
+      cursor:pointer;
+      overflow: hidden;
+      outline:none;
+  }
+  .logo{
+    color:white;
+    font-size:20px;
+  }

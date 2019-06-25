@@ -1,0 +1,16 @@
+export const GET_ALL_USERS  =   'GET_ALL_USERS';
+export const GET_SPECIFIC_USER  =   'GET_SPECIFIC_USER';
+export const GET_USER_ID    =   'GET_USER_ID';
+export const GET_SERIEL_NUMBER =    'GET_SERIEL_NUMBER';
+export const GET_MANUFACTURER   =   'GET_MANUFACTURER';
+export const GET_MODEL  =   'GET_MODEL';
+export const GET_COMPUTER_NAME  =   'GET_COMPUTER_NAME';
+export const GET_LOCATION   =   'GET_LOCATION';
+export const GET_OPERATING_SYSTEM   =   'GET_OPERTATING_SYSYTEM';
+export const GET_OS_ARCHITCHRE  =   'GET_OS_ARCHITCHRE';
+export const GET_TOTAL_SYSTEM_MEMORY = 'GET_TOTAL_SYSTEM_MEMORY';
+export const GET_VIDEO  =   'GET_VIDEO';
+export const GET_VIDEO_MEMORY    =   'GET_VIDEO_MEMORY';
+export const GET_DNS_DOMAIN =   'GET_DNS_DOMAIN';
+export const GET_LAST_KNOWN_IP  =   'GET_LAST_KNOWN_IP';
+export const GET_MAC    =   'GET_MAC';

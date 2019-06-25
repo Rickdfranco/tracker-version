@@ -1,0 +1,662 @@
+{
+  "Specs": [
+    {
+      "userId": "Alfonso Morales",
+      "serielNumber": "2H2KN72 ",
+      "manufacturer": "Dell Inc.",
+      "model":"Inspiron 5559",
+      "operatingSystem":"Microsoft Windows 10 Home",
+      "lastKnownIp":"10.134.10.117"
+    },
+    {
+      "userId": "smcguire",
+      "serielNumber": "2UA1490TTM",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.35"
+    },
+    {
+      "userId": "nmaldonado",
+      "serielNumber": "2UA1490TY5",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.81"
+    },
+    {
+      "userId": "gmoreno",
+      "serielNumber": "2UA1490TZQ",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.120"
+    },
+    {
+      "userId": "rramirez",
+      "serielNumber": "2UA1490V1C",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.67"
+    },
+    {
+      "userId": "mrios",
+      "serielNumber": "2UA1490V7P",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.73"
+    },
+    {
+      "userId": "jstemen",
+      "serielNumber": "2UA1490V8D",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.132"
+    },
+    {
+      "userId": "evian",
+      "serielNumber": "2UA2180RZF",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.134"
+    },
+    {
+      "userId": "jraettig",
+      "serielNumber": "2UA2160Y08",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.137"
+    },
+    {
+      "userId": "cstoddard",
+      "serielNumber": "2UA2210J2P",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.118"
+    },
+    {
+      "userId": "mmaeda",
+      "serielNumber": "2UA2210J2Y",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.51"
+    },
+    {
+      "userId": "gbuyco",
+      "serielNumber": "2UA2210J83",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.79"
+    },
+    {
+      "userId": "jlister",
+      "serielNumber": "2UA2210MPL",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.40"
+    },
+    {
+      "userId": "sshaw",
+      "serielNumber": "2UA2210NJK",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.40"
+    },
+    {
+      "userId": "sdesantiago",
+      "serielNumber": "2UA2210PKM",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.119"
+    },
+    {
+      "userId": "arios",
+      "serielNumber": "2UA2210PMR",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.140"
+    },
+    {
+      "userId": "vcruz",
+      "serielNumber": "2UA2210TDR",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.26"
+    },
+    {
+      "userId": "dflores",
+      "serielNumber": "2UA2210TG5",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.129"
+    },
+    {
+      "userId": "rbarbarin",
+      "serielNumber": "2UA2210TJY",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.125"
+    },
+    {
+      "userId": "rramirez",
+      "serielNumber": "2UA2210Z76",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.127"
+    },
+    {
+      "userId": "avega",
+      "serielNumber": "2UA2210ZB0",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.83"
+    },
+    {
+      "userId": "frankh",
+      "serielNumber": "2UA2210ZDW",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.122"
+    },
+    {
+      "userId": "Permit Temp",
+      "serielNumber": "2UA2210ZDW",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.122"
+    },
+    {
+      "userId": "rfranco",
+      "serielNumber": "2UA2211FVS",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.58"
+    },
+    {
+      "userId": "ehernandez",
+      "serielNumber": "2UA2381GXF",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.148"
+    },
+    {
+      "userId": "pvalenzuela",
+      "serielNumber": "2UA2390QD2",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.77"
+    },
+    {
+      "userId": "sayshoa",
+      "serielNumber": "2UA2391G8Z",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.43"
+    },
+    {
+      "userId": "asanchez",
+      "serielNumber": "2UA2400C1C",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.59"
+    },
+    {
+      "userId": "nestepa",
+      "serielNumber": "2UA2400C80",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.151"
+    },
+    {
+      "userId": "jildefonso",
+      "serielNumber": "2UA3450QM7",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 SFF",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.131"
+    },
+    {
+      "userId": "avalencia",
+      "serielNumber": "2UA4062LSF",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 SFF",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.130"
+    },
+    {
+      "userId": "Krishawna",
+      "serielNumber": "2UA4411P68",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 SFF",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.47"
+    },
+    {
+      "userId": "myoungblood",
+      "serielNumber": "2UA4411QC5",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 SFF",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.63"
+    },
+    {
+      "userId": "mvillarreal",
+      "serielNumber": "2UA4411QF2",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 SFF",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.117"
+    },
+    {
+      "userId": "cguillen",
+      "serielNumber": "2UA4421HPH",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.121"
+    },
+    {
+      "userId": "tstrait",
+      "serielNumber": "2UA4461HDG",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 SFF",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.87"
+    },
+    {
+      "userId": "jherrera",
+      "serielNumber": "2UA4491RZP",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 SFF",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.76"
+    },
+    {
+      "userId": "cfelix",
+      "serielNumber": "2UA5031T6P",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.34"
+    },
+    {
+      "userId": "JuanR",
+      "serielNumber": "2UA5031T6Q",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.46"
+    },
+    {
+      "userId": "pablov",
+      "serielNumber": "2UA5031T7S",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.147"
+    },
+    {
+      "userId": "ClaudiaM",
+      "serielNumber": "2UA5031T7W",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.65"
+    },
+    {
+      "userId": "rherrera",
+      "serielNumber": "2UA5032JZP",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.42"
+    },
+    {
+      "userId": "glenm",
+      "serielNumber": "2UA5042T4Q",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.126"
+    },
+    {
+      "userId": "mikew",
+      "serielNumber": "2UA5042T7S",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.84"
+    },
+    {
+      "userId": "aagins",
+      "serielNumber": "2UA5042THN",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.98"
+    },
+    {
+      "userId": "APerez",
+      "serielNumber": "2UA5382PL1",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.136"
+    },
+    {
+      "userId": "jraettig2",
+      "serielNumber": "2UA23114HP",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP Compaq 8200 Elite SFF PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"110.205.10.133"
+    },
+    {
+      "userId": "pkmalhotra",
+      "serielNumber": "2UA50324QV",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"110.205.10.144"
+    },
+    {
+      "userId": "jgarcia",
+      "serielNumber": "2UA52431FZ",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"110.205.10.88"
+    },
+    {
+      "userId": "smaeda",
+      "serielNumber": "2UA52431G5",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 SFF",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"110.205.10.80"
+    },
+    {
+      "userId": "eileenm",
+      "serielNumber": "2UA5032978",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP EliteDesk 800 G1 TWR",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.97"
+    },
+    {
+      "userId": "ccamacho",
+      "serielNumber": "4CI6260Y91",
+      "manufacturer": "Hewlett-Packard",
+      "model":"22-a130z",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.134.10.110"
+    },
+    {
+      "userId": "rruby",
+      "serielNumber": "4CI6260Y92 (Gardena)",
+      "manufacturer": "Hewlett-Packard",
+      "model":"22-a130z",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.134.10.144"
+    },
+    {
+      "userId": "vcontreras",
+      "serielNumber": "4CI6260Y93)",
+      "manufacturer": "Hewlett-Packard",
+      "model":"22-a130z",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.92"
+    },
+    {
+      "userId": "marnott",
+      "serielNumber": "4CI6260Y94",
+      "manufacturer": "Hewlett-Packard",
+      "model":"22-a130z",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.134.10.120"
+    },
+    {
+      "userId": "r2valle",
+      "serielNumber": "4KT4182",
+      "manufacturer": "Dell Inc.",
+      "model":"Inspiron 3847",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.69"
+    },
+    {
+      "userId": "DTorres",
+      "serielNumber": "4M76182",
+      "manufacturer": "Dell Inc.",
+      "model":"Inspiron 3847",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.71"
+    },
+    {
+      "userId": "Abraham",
+      "serielNumber": "5CB413175W",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP 15 Notebook PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.85"
+    },
+    {
+      "userId": "JuaWnR (Arios)",
+      "serielNumber": "5CD4504G3M",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP 15 Notebook PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"192.168.1.14"
+    },
+    {
+      "userId": "Juan",
+      "serielNumber": "5CD4504MHX",
+      "manufacturer": "Hewlett-Packard",
+      "model":"HP 15 Notebook PC",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.30"
+    },
+    {
+      "userId": "New Isaac Torres Laptop",
+      "serielNumber": "5KX59L2",
+      "manufacturer": "Dell Inc.",
+      "model":"Inspiron 15-3567",
+      "operatingSystem":"Microsoft Windows 10 Pro",
+      "lastKnownIp":"10.205.10.164"
+      },
+      {
+        "userId": "mmetcalf",
+        "serielNumber": "6XWXVP2",
+        "manufacturer": "Dell Inc.",
+        "model":"Vostro 3470",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.205.10.38"
+      },
+      {
+        "userId": "bvazquez",
+        "serielNumber": "6Y13WP2",
+        "manufacturer": "Dell Inc.",
+        "model":"Vostro 3470",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.205.10.54"
+      },
+      {
+        "userId": "Old Isaac Torres Laptop",
+        "serielNumber": "7C157958Q (Mac Address Banned) (Retired)",
+        "manufacturer": "TOSHIBA",
+        "model":"Satellite C855D",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.205.10.60"
+      },
+      {
+        "userId": "FrankF",
+        "serielNumber": "7C297676R (Mac Address Banned)",
+        "manufacturer": "TOSHIBA",
+        "model":"Satellite L875",
+        "operatingSystem":"Microsoft Windows 7 Home Premium ",
+        "lastKnownIp":"192.168.0.25"
+      },
+      {
+        "userId": "jbowers",
+        "serielNumber": "8CC6191J5C",
+        "manufacturer": "HP",
+        "model":"24-b010",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.205.10.94"
+      },
+      {
+        "userId": "rrosales",
+        "serielNumber": "8CC6191J5C",
+        "manufacturer": "HP",
+        "model":"24-b010",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.205.10.94"
+      },
+      {
+        "userId": "kcrafton",
+        "serielNumber": "9GYXLP2",
+        "manufacturer": "Dell Inc",
+        "model":"Vostro 3670",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.134.10.119"
+      },
+      {
+        "userId": "jbarajas",
+        "serielNumber": "9GZ3MP2",
+        "manufacturer": "Dell Inc",
+        "model":"Vostro 3670",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.205.10.78"
+      },
+      {
+        "userId": "drodriguez",
+        "serielNumber": "9GZWLP2",
+        "manufacturer": "Dell Inc",
+        "model":"Vostro 3670",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.134.10.136"
+      },
+      {
+        "userId": "cortiz",
+        "serielNumber": "9H01MP2",
+        "manufacturer": "Dell Inc",
+        "model":"Vostro 3670",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.205.10.82"
+      },
+      {
+        "userId": "Julio",
+        "serielNumber": "37B9DC2",
+        "manufacturer": "Dell Inc",
+        "model":"Inspiron 5559",
+        "operatingSystem":"Microsoft Windows 10 Home",
+        "lastKnownIp":"10.205.10.27"
+      },
+      {
+        "userId": "Louis",
+        "serielNumber": "86KTC82",
+        "manufacturer": "Dell Inc",
+        "model":"Inspiron 3558",
+        "operatingSystem":"Microsoft Windows 10 Home",
+        "lastKnownIp":"10.205.10.62"
+      },
+      {
+        "userId": "Dianell Caamano",
+        "serielNumber": "B1CZL72 (Mac Address Banned)",
+        "manufacturer": "Dell Inc",
+        "model":"Inspiron 5759",
+        "operatingSystem":"Microsoft Windows 10 Home",
+        "lastKnownIp":"10.134.10.131"
+      },
+      {
+        "userId": "Louis Delao",
+        "serielNumber": "C44PDC2",
+        "manufacturer": "Dell Inc",
+        "model":"Inspiron 5559",
+        "operatingSystem":"Microsoft Windows 10 Home",
+        "lastKnownIp":"10.205.10.70"
+      },
+      {
+        "userId": "Miguel Raya",
+        "serielNumber": "CND6109F14",
+        "manufacturer": "HP",
+        "model":"HP Notebook",
+        "operatingSystem":"Microsoft Windows 10 Home",
+        "lastKnownIp":"10.205.10.75"
+      },
+      {
+        "userId": "Rudy",
+        "serielNumber": "CTJHL72 (Mac Address Filtered)",
+        "manufacturer": "Dell Inc.",
+        "model":"Inspiron 5559",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.205.10.102"
+      },
+      {
+        "userId": "Jtopp",
+        "serielNumber": "CVVGN72 (Gardena))",
+        "manufacturer": "Dell Inc.",
+        "model":"Inspiron 5559",
+        "operatingSystem":"Microsoft Windows 10 Home",
+        "lastKnownIp":"10.134.10.114"
+      },
+      {
+        "userId": "Ruben Ruby",
+        "serielNumber": "CWM59L2",
+        "manufacturer": "Dell Inc.",
+        "model":"Inspiron 15-3567",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.134.10.101"
+      },
+      {
+        "userId": "pmancilla",
+        "serielNumber": "F8K0XR1",
+        "manufacturer": "Dell Inc.",
+        "model":"Precision T1600",
+        "operatingSystem":"Microsoft Windows 10 Enterprise",
+        "lastKnownIp":"10.134.10.135"
+      },
+      {
+        "userId": "paycom",
+        "serielNumber": "FTD1SW1c.",
+        "manufacturer": "Dell Inc.",
+        "model":"Vostro 270 ",
+        "operatingSystem":"Microsoft Windows 10 Enterprise",
+        "lastKnownIp":"10.134.10.113"
+      },
+      {
+        "userId": "Jorge Soto",
+        "serielNumber": "GJPDQX1",
+        "manufacturer": "Dell Inc.",
+        "model":"Inspiron 3721",
+        "operatingSystem":"Microsoft Windows 10 Pro",
+        "lastKnownIp":"10.205.10.72"
+      }
+    
+  ]
+
+}

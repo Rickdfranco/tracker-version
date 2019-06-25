@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+<PropertyGroup>
+    <TargetFrameWork>netcoreapp2.1</TargetFrameWork>
+</PropertyGroup>
+
+<ItemGroup>
+    <Folder Include="wwwroot\">
+</ItemGroup>
+
